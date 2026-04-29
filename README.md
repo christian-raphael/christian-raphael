@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**christian-raphael/christian-raphael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Christian, a Software Engineer with a strong backend foundation, currently expanding into modern frontend ecosystems.
 
-Here are some ideas to get you started:
+I focus on building applications that are not only functional, but also well-structured, scalable, and intentional in their design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe in continuous improvement over perfection.
+
+My approach to learning is based on iteration - building, failing, refining, and improving over time.
+
+## 🚀 Tech Stack
+
+**Backend**
+- Java (Spring Boot/Quarkus), Python, REST APIs
+
+**Frontend (expanding)**
+- React, Vite, Next.js, Tailwind CSS
+
+**Cloud & Tools**
+- AWS, Git & GitHub
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=christian-raphael&show_icons=true&hide_border=true&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christian-raphael&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+Hesitation is defeat!
