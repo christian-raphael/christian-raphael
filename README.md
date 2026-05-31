@@ -22,6 +22,7 @@ My approach to learning is based on iteration - building, failing, refining, and
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats-psi-one-32.vercel.app/api?username=christian-raphael&show_icons=true&hide_border=true&theme=transparent" />
   <img height="170" src="https://github-readme-stats-psi-one-32.vercel.app/api/top-langs/?username=christian-raphael&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
